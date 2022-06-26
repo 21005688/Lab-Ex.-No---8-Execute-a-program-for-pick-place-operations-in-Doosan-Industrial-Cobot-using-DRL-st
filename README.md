@@ -44,7 +44,7 @@ Procedure:
 ![output](./3.png)
 ## output : 
 
-![output](./A.JPEG) 
+![output](./A.jpeg) 
 
 
 ## Results: 
